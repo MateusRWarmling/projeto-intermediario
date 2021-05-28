@@ -1,0 +1,27 @@
+{
+  "name": "projeto-mateus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "@mateuswarmling",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "engines": {
+    "node": "14.15.4"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-config-prettier": "^6.10.1",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-prettier": "^3.1.2",
+    "prettier": "^2.0.4",
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "node-html-parser": "^3.3.4"
+  }
+}
