@@ -28,3 +28,6 @@ Rota para teste:
     }
     ```
 Query: title (busca por título do mangá).
+
+# Testes
+- https://projeto-intermediario-mateusrw.herokuapp.com/
